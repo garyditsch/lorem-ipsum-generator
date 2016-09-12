@@ -1,6 +1,6 @@
 # Flask Package
 
-Create a flask app as a package and a run script to actually run the application
+ Create a lorem ipsum generator
 
 ## Setup
 * `mkvirtualenv -p python3 flask-package`
